@@ -2,6 +2,6 @@
 
 A new Flutter project.
 
-file:///Users/macbookpro/Screenshots/Screenshot%202024-03-21%20at%207.15.21%20PM.png
+<img width="303" alt="Screenshot 2024-03-21 at 7 15 21 PM" src="https://github.com/gulfam-dev/dice_flutter/assets/146335824/4ea79037-3539-4893-a979-9de43fbf733a">
 
 
